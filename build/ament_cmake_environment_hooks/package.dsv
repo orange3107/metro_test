@@ -1,0 +1,4 @@
+source;share/VehicleSimulation/local_setup.bash
+source;share/VehicleSimulation/local_setup.dsv
+source;share/VehicleSimulation/local_setup.sh
+source;share/VehicleSimulation/local_setup.zsh
