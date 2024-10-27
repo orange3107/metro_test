@@ -1,0 +1,1 @@
+![Скриншот rviz](images/rviz.png)
